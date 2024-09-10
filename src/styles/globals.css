@@ -86,3 +86,33 @@ a {
   background: #fff;
   box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.2);
 }
+
+.subscribe {
+  background: url('../../public/background.png');
+  background-size: 100%;
+  min-height: 600px;
+}
+
+.subscribe h4 {
+  font-size: 48px;
+  font-weight: 700;
+  color: var(--secondary-color);
+  text-align: center;
+  width: 600px;
+}
+
+.submit-area {
+  background: #fff;
+  width: 500px;
+  padding: 12px 90px 12px 16px;
+  border-radius: 10px;
+}
+
+.submit-button {
+  color: #fff;
+  font-weight: 600;
+  background: var(--green-color);
+  padding: 12px 20px;
+  border-radius: 8px;
+  margin-left: 10px;
+}
