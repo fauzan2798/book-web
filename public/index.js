@@ -18,6 +18,8 @@ import HeroImg from "./hero.png"
 import BgImg from "./background.png"
 import IGImg from "./instagram.png"
 import FBImg from "./facebook.png"
+import StarOFF from "./staroff.png"
+import StarON from "./staron.png"
 
 export {
     Author1,
@@ -40,6 +42,8 @@ export {
     BgImg,
     IGImg,
     FBImg,
+    StarOFF,
+    StarON
 }
 
 

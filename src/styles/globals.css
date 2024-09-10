@@ -7,7 +7,7 @@
   --secondary-color: #463C74;
   --green-color: #B4D51E;
   --orange-color: #FFC735;
-  --black-color: #000;
+  --dark-color: #000;
 
 }
 
@@ -64,4 +64,25 @@ a {
   border-radius: 8px;
   color: #fff;
   font-weight: 600;
+}
+
+.popular h2 {
+  color: var(--secondary-color);
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.popular a {
+  color: #828282;
+}
+
+.popular h3 {
+  color: var(--dark-color);
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.cover {
+  background: #fff;
+  box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.2);
 }
