@@ -20,6 +20,7 @@ import IGImg from "./instagram.png"
 import FBImg from "./facebook.png"
 import StarOFF from "./staroff.png"
 import StarON from "./staron.png"
+import Kutip from "./kutip.png"
 
 export {
     Author1,
@@ -43,7 +44,8 @@ export {
     IGImg,
     FBImg,
     StarOFF,
-    StarON
+    StarON,
+    Kutip
 }
 
 

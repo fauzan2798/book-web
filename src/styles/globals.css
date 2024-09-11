@@ -116,3 +116,47 @@ a {
   border-radius: 8px;
   margin-left: 10px;
 }
+
+.testimoni {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px 40px;
+  border-style: solid;
+  border-color: var(--green-color);
+}
+
+.testimoni h5 {
+  margin-bottom: 30px;
+  color: var(--dark-color);
+  font-weight: 600;
+}
+
+.testimoni p {
+  margin-bottom: 30px;
+  color: #94A2B3;
+}
+
+.gambar {
+  margin-top: -60px;
+  margin-bottom: 30px;
+}
+
+.footer {
+  background: var(--primary-color);
+}
+
+.footer p {
+  font-size: 18px;
+  color: #828282;
+}
+
+.menu p {
+  font-size: 18px;
+  color: var(--dark-color);
+  font-weight: 600;
+}
+
+.menu a {
+  font-size: 16px;
+  color: #828282;
+}

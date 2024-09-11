@@ -26,7 +26,7 @@ const Navbar = () => {
             <li><FaRegHeart className='cursor-pointer text-2xl'/></li>
             <li><BsFillMoonStarsFill className='cursor-pointer text-2xl ml-12'/></li>
             <li><a href='#' className='ml-12 text-xl'>ID</a></li>
-            <li><a href='#' className='button-bg-seconadry text-white px-4 py-2 rounded-md ml-8'>Contact</a></li>
+            <li><a href='#' className='button-bg-secondary text-white px-4 py-2 rounded-md ml-8'>Contact</a></li>
           </ul>
         </nav>
         <div className='pl-10'> 
